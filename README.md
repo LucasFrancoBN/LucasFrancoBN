@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasFrancoBN
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 👋 Olá, eu sou @LucasFrancoBN
+- 🌱 Atualmente eu estou estudando HTML, CSS and JavaScript
 
 
