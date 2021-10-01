@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lucas
 - 🌱 Currently I'm studying HTML, CSS and JavaScript
 - 👨‍💻 Future Development Full Stack
-- 🚀 Always doing your best and giving your best
+- 🚀 Always doing and giving your best
 
 ##
 
