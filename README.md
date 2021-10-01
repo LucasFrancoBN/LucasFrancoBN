@@ -1,7 +1,7 @@
-# 👋 Olá, eu sou Lucas
-- 🌱 Atualmente eu estou estudando HTML, CSS and JavaScript
-- 👨‍💻 Futuro Desenvolvedor FullStack
-- 🚀 Dando sempre o melhor de si em tudo o que faz
+# 👋 Hi, I'm Lucas
+- 🌱 Currently I'm studying HTML, CSS and JavaScript
+- 👨‍💻 Future Development Full Stack
+- 🚀 Always doing your best and giving your best
 
 ##
 
