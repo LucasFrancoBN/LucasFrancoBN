@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Lucas
 - 🌱 Currently I'm studying HTML, CSS and JavaScript
 - 👨‍💻 Future Development Full Stack
 - 🚀 Always doing and giving your best
