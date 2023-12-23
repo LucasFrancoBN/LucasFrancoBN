@@ -3,7 +3,7 @@
 
 # Hi, I'm Lucas 👋 
 - 🌱 Currently I'm studying Java
-- 👨‍💻 Front-end Developer
+- 👨‍💻 Full Stack Developer
 - 🚀 Learned technologies: Java, C#, MySQL, Oracle, Node.JS, ReactJS, HTML, CSS, Typescript,
 
 ##
