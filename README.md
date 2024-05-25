@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Lucas 👋</h1>
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
-<h2 align="left">About me</h2>
 <p align="left">I'm very happy about your visit to my GitHub :D</p>
 <p align="left">I am a Full Stack developer who is always looking to learn and innovate solutions in the world of software development.</p>
 <h3 align="left">My Social Medias</h3>
